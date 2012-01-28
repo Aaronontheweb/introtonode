@@ -5,8 +5,8 @@ This particular example listens for an incoming TCP socket
 connection on port *1818* and simply echos the response back to the server.
 
 To use this example, start the application:
-    c:\> node server.js
-    c:\> server listening on 0.0.0.0 1818
+    c:\introtonode\helloworld-socket> node server.js
+    c:\introtonode\helloworld-socket> server listening on 0.0.0.0 1818
 
 And then use telnet to connect to the TCP server:
     c:\> telnet localhost 1818
