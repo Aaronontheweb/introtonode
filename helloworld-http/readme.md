@@ -2,7 +2,7 @@ How To Use This Example
 --------
 
 This particular example serves plain text back in response to an HTTP request
-connection on port *3000* and simply responds "Hello World!" back to the end-user.
+connection on port **3000** and simply responds "Hello World!" back to the end-user.
 
 To use this example, start the application:
 
