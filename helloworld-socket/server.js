@@ -17,6 +17,6 @@ var server = net.createServer(function(conn){ //Method listens for incoming conn
 });
 
 /* Uses a port assigned by the node.exe host process */
-server.listen(process.env.port, function(){
+server.listen(1818, function(){
     console.log('server listening on ' + server.address().address + ' ' + server.address().port);
 });
