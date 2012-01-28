@@ -14,6 +14,7 @@ This content is used in my Node 101 talks for developers who are new to or unfam
 
 ### Additional Resources ###
 Further reading:
+
 * [NodeBeginner.org](http://nodebeginner.org/) - Used this to teach myself Node when I was first getting started.
 
 * [NodeJS.org](http://nodejs.org) - Official Node Homepage
