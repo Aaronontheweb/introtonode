@@ -2,7 +2,7 @@ Introduction to Node.JS
 --------
 
 The examples contained within these projects are simple [Node.JS](http://nodejs.org/) projects
-designed to show how to accomplish some basic programming objects with Node, such as:
+designed to show how to accomplish some basic programming objectives with Node, such as:
 
 1. Use the [HTTP](http://nodejs.org/docs/latest/api/http.html "Node.JS HTTP Module") module;
 2. Use the [Net](http://nodejs.org/docs/latest/api/net.html "Node.JS Net Module") module for working with TCP connections;
